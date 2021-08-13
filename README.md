@@ -82,7 +82,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-  React Js is a javaScript library that is use to create fast updating and interactive user interfaces. React takes care of the problem of dealing with the DOM and updating data by creating a virtual DOM. A programmer can then tell React what elements and states to render and React will do it for us.It also updates on it's own and can change only that particular node, which is easier on the browser.
+  React Js is a javaScript library that is use to create fast updating and interactive user interfaces. React takes care of the problem of dealing with the DOM and updating data by creating a virtual DOM. Instead of writing out all of the createElement's and appendChild's of last week, you can write the JSX right in javaScript. React also has states that you use to update data to render and automatically makes the necessary changes. It can change a particular node, which is easier on the browser. 
 
 1. Describe component state.
 
